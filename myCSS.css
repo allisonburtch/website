@@ -1,0 +1,68 @@
+
+/* --------------------------------------------------------
+Style Sheet for allisonburtch.net
+
+last modified: 11.01.2013
+allisonburtch@gmail.com
+----------------------------------------------------------*/
+.logo {
+
+	 position:relative;
+	 padding-top: 0px;
+	 padding-bottom: 50px;
+
+}
+
+#navbarList {
+	float: left;
+	list-style-type: none;
+	font-family: Verlag-Light;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	font-size: small;
+	text-decoration: none;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0);
+	display: block;
+	padding: 0.75em;
+	
+
+}
+
+#navbarList  
+li a:hover { 
+	background-color: rgba(5, 0, 0, 25); 
+}
+
+
+#container {
+	position: relative;
+	float: left;
+	padding-left: 2em;
+	font-family: Verlag-Light;
+		letter-spacing: 0.15em;
+	color: black;
+	background-color: white }
+
+
+.works {
+	position: relative;
+	float: left;
+ 	width: 250px;
+	font-family: Verlag-Light;
+	font-size: small;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	font-size: small;
+	text-decoration: none;
+	color: #fff;
+	padding-top: 15px;
+	margin: 5px 5px 5px 5px;
+
+}
+
+.works  
+#description a:hover { 
+	background-color: rgba(5, 0, 0, 25); 
+}
+
